@@ -96,7 +96,3 @@ btn_sel.when_pressed = menu.select
 ```
 
 ---
-
-## License
-
-MIT License
