@@ -1,0 +1,5 @@
+Menu System Example
+Use the Menu class to build navigable menus.
+Each item triggers a callback when selected.
+You can use this to open pages, show text, or start custom code!
+Buttons 16/17 scroll, Button 18 selects.
